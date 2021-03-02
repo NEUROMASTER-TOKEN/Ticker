@@ -1,4 +1,4 @@
-# Ticker
+# Ticker [NXR] $NXR
 
 > $NEUROMASTER Currency Ticker
 
